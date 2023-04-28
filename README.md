@@ -14,7 +14,7 @@
 └── README.md
 ```
 
-* main: Es el archivo de prueba para las pilas
+* main: Es el archivo de prueba para las colas
 * colas/init: Es el archivo que exporta las clases necesarias a modulos padre
 * colas/nodo: Contiene las funcionalidades basicas de los nodos (constructor)
 * colas/colas: Usa las funcionalidades de los nodos para crear las colas
